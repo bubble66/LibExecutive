@@ -1,3 +1,4 @@
 #ha, Creating a new branch is quick!
 byby
-Creating a new branch is quick & simple.
+another creating a new branch is fast-quick!
+Creating a new branch is quick AND simple.
